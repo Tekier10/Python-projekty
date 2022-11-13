@@ -1,5 +1,5 @@
 """
-program extrahuje základní údaje ze zveřejněných pracovních pozic z portálu a ukládá je do vygenerovaných souborů každých 24h.
+web scraping projekt: program extrahuje základní údaje ze zveřejněných pracovních pozic z portálu a ukládá je do vygenerovaných souborů každých 24h.
 """
 
 from bs4 import BeautifulSoup
